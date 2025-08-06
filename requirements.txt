@@ -1,6 +1,6 @@
 streamlit 
 langchain-openai 
-langchain-groq 
+langchain-text-splitters
 langchain-google-genai 
 langchain-core
 numpy
