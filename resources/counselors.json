@@ -1,0 +1,238 @@
+[
+  {
+    "programs": ["BSc Life Sciences", "BSc CZ", "PhD scholars"],
+    "counselor": {
+      "name": "Ms. Ashly George",
+      "email": "ashly.george@christuniversity.in",
+      "phone": "080-4012 9189",
+      "location": "I Block, 2nd Floor, Cabin No: 203"
+    }
+  },
+  {
+    "programs": [
+      "BCom P (A & B)",
+      "BCom‑IF",
+      "BCom Branding & Entrepreneurship",
+      "BSc Actuarial Sciences",
+      "MCom International Finance",
+      "MSc Innovation & Entrepreneurship",
+      "MSc Actuarial Sciences",
+      "MSc Strategic Management",
+      "MSc Sustainable Devp",
+      "MSc Behavioural Sciences",
+      "MA Eco",
+      "MA Educational leadership & Management",
+      "MSc Data Analytics"
+    ],
+    "counselor": {
+      "name": "Ms. Shessy C J",
+      "email": "shessy.cj@christuniversity.in",
+      "phone": "080-4012 9297",
+      "location": "IV Block, 4th Floor, Cabin No: 474"
+    }
+  },
+  {
+    "programs": [
+      "EMS",
+      "BSc PC",
+      "BSc PM",
+      "BA‑His & Poli",
+      "MSc Maths",
+      "MSc Phy",
+      "MA Public policy",
+      "MA‑IS"
+    ],
+    "counselor": {
+      "name": "Ms. Diana Mani",
+      "email": "diana.pradeepa@christuniversity.in",
+      "phone": "080-4012 9131",
+      "location": "II Block, 2nd Floor, Cabin No: 711"
+    }
+  },
+  {
+    "programs": [
+      "BBA‑A, B, C, D, E, F",
+      "BBA Decision Science"
+    ],
+    "counselor": {
+      "name": "Ms. Ludhiya Mary",
+      "email": "ludhiya.mary@christuniversity.in",
+      "phone": "080-4012 9427",
+      "location": "Audi Block, 2nd Floor, Cabin No: 916"
+    }
+  },
+  {
+    "programs": [
+      "BA‑Econo & Socio",
+      "BA‑Perfo Arts & Psy",
+      "BA‑Perfo Arts & Creative media",
+      "BA Music & Psy",
+      "BA Music & Creative media",
+      "BA TP",
+      "BA Theatre & Creative media",
+      "BA‑Psy & Eco",
+      "BA Psy(H)",
+      "Applied Eco",
+      "MA Performing arts"
+    ],
+    "counselor": {
+      "name": "Ms. Deepa Venukumar",
+      "email": "deepa.kumar@christuniversity.in",
+      "phone": "080-4012 9129",
+      "location": "II Block, 2nd Floor, Cabin No: 711"
+    }
+  },
+  {
+    "programs": [
+      "BCom Regular - A, B, C, D, F",
+      "BCom Accountancy & Taxation",
+      "BCom (Online)",
+      "MCom A & B"
+    ],
+    "counselor": {
+      "name": "Ms. Jaya Jha",
+      "email": "jaya.jha@christuniversity.in",
+      "phone": "080-4012 9772",
+      "location": "IV Block, 4th Floor, Cabin No: 457"
+    }
+  },
+  {
+    "programs": [
+      "BSc A&A",
+      "BCom Finance & Investment (A & B)",
+      "BCom Applied finance & analytics",
+      "BCom SF",
+      "MA Soc",
+      "MSW CC & HR"
+    ],
+    "counselor": {
+      "name": "Ms. Karthika Srivastava",
+      "email": "karthika.srivastava@christuniversity.in",
+      "phone": "080-4012 9438",
+      "location": "IV Block, 4th Floor, Cabin No: 459"
+    }
+  },
+  {
+    "programs": [
+      "MSc Clinical Psy",
+      "MSc Clinical Psycho‑oncology",
+      "MSc Counselling Psy",
+      "MSc Educ. Psychology",
+      "MSc Neuropsychology",
+      "MSc Psycho HRDM",
+      "MSc Psycho (health & wellbeing)",
+      "MSc Psycho HRDM with MA (Steinbeis)",
+      "PG Diploma in Psychology"
+    ],
+    "counselor": {
+      "name": "Ms. Smita Prabhu",
+      "email": "smita.prabhu@christuniversity.in",
+      "phone": "080-4012 9190",
+      "location": "II Block, 2nd Floor, Cabin No: 711"
+    }
+  },
+  {
+    "programs": [
+      "BA‑LLB(H)",
+      "BBA‑LLB(H)",
+      "LLM",
+      "MBA‑Executive"
+    ],
+    "counselor": {
+      "name": "Ms. Shylaja John",
+      "email": "shylaja.john@christuniversity.in",
+      "phone": "080-4012 9077",
+      "location": "Central Block, 1st Floor, Cabin No: 193"
+    }
+  },
+  {
+    "programs": [
+      "BSc Biotech & Che",
+      "BSc Biotech & Bot",
+      "BSc Biotech & Zoo",
+      "BSc Biotech & Forensic",
+      "MSc Forensic Sciences",
+      "MSc Che",
+      "MSc BioTech",
+      "MSc Bot",
+      "MSc Zoo"
+    ],
+    "counselor": {
+      "name": "Ms. Junie Elizabeth",
+      "email": "junie.elizabeth@christuniversity.in",
+      "phone": "080-4012 4351",
+      "location": "1st Block, 1st Floor, Cabin No: 117"
+    }
+  },
+  {
+    "programs": [
+      "BSc CS & Maths",
+      "BSc CS & Stats",
+      "BSc Data Sci & Stats",
+      "BSc Data Sci & Maths",
+      "BCA‑A & B",
+      "MCA",
+      "MSc Stat",
+      "MS CSA",
+      "MDS",
+      "MSc AI & Machine learning",
+      "MSc Computational Stat and Applied AI",
+      "BCA(Online)",
+      "MCA(Online)",
+      "MDS(Online)",
+      "MSc AI & Machine learning(Online)",
+      "MSc Stat (Online)"
+    ],
+    "counselor": {
+      "name": "Ms. Anisha Thampy",
+      "email": "anisha.thampy@christuniversity.in",
+      "phone": "080-4012 9193",
+      "location": "II Block, 2nd Floor, Cabin No: 711"
+    }
+  },
+  {
+    "programs": [
+      "BA Communication and Media & English",
+      "BA Communication and Media & Psychology",
+      "BA Journalism & Digital Media Eng",
+      "BA Psy & Eng",
+      "MA Eng & Communication Studies",
+      "MA Eng & Communication Studies (Online)",
+      "MA English",
+      "MAMCS",
+      "BEd A & B",
+      "PGDIE"
+    ],
+    "counselor": {
+      "name": "Ms. Vidya Vijaykumar",
+      "email": "vidya.vijaykumar@christuniversity.in",
+      "phone": "080-4012 9372",
+      "location": "II Block, 2nd Floor, Cabin No: 4"
+    }
+  },
+  {
+    "programs": [
+      "BCom F&A (A, B, C, D)",
+      "BCom International Accountancy & Finance (A, B, C, D)",
+      "BCom IFB"
+    ],
+    "counselor": {
+      "name": "Ms. Sara Preethi",
+      "email": "sara.preethi@@christuniversity.in",
+      "phone": "080-4012 9159",
+      "location": "IV Block, 4th Floor, Cabin No: 458"
+    }
+  },
+  {
+    "programs": [
+      "MBA (G, H, I, J, K, L, M, N, V & W)",
+      "BHM"
+    ],
+    "counselor": {
+      "name": "Ms. Manjula T",
+      "email": "manjula.t@christuniversity.in",
+      "phone": "080-4012 9078",
+      "location": "Central Block, 1st Floor, Cabin No: 192"
+    }
+  }
+]
