@@ -1,5 +1,6 @@
 from langchain_openai import OpenAIEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+#from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import faiss
 import numpy as np
 import json
