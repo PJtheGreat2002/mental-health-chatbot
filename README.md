@@ -133,7 +133,7 @@ The application supports two AI providers:
 3. Add to `.env` file: `OPENAI_API_KEY=sk-...`
 
 #### **Google Gemini Setup**
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
 2. Create a new API key
 3. Add to `.env` file: `GEMINI_API_KEY=...`
 
