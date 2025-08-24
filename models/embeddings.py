@@ -8,6 +8,10 @@ import os
 import pickle
 from typing import List, Dict, Optional, Tuple
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -27,7 +31,10 @@ class EmbeddingModel:
             persist_path: Path to persist the FAISS index and metadata
         """
         try:
-            self.embeddings = OpenAIEmbeddings(model=model_name)
+            api_key = os.getenv("OPENAI_API_KEY")
+            if not api_key:
+                raise ValueError("OPENAI_API_KEY environment variable is not set")
+            self.embeddings = OpenAIEmbeddings(model=model_name, openai_api_key=api_key)
             self.dimension = 1536  # OpenAI text-embedding-ada-002 dimension
             self.index = faiss.IndexFlatL2(self.dimension)
             self.texts = []

@@ -7,7 +7,6 @@ from utils.lookup import find_counselor_by_program
 from models.llm import LLMProvider
 from utils.rag import mental_health_rag, retrieve_knowledge
 from models.embeddings import EmbeddingModel
-from utils.rag import retrieve_knowledge
 from config.config import OPENAI_API_KEY, GEMINI_API_KEY
 import logging
 import json
