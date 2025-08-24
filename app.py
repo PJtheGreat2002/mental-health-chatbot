@@ -59,30 +59,30 @@ def display_counselor_info(counselor):
         unsafe_allow_html=True
     )
 
-def display_rag_stats():
-    """Display RAG system statistics"""
-    try:
-        # Try to get stats from RAG system
-        from utils.rag import mental_health_rag
-        if hasattr(mental_health_rag, 'get_stats'):
-            stats = mental_health_rag.get_stats()
-        else:
-            stats = {'total_documents': 'Unknown', 'api_available': False, 'ready': False}
+# def display_rag_stats():
+#     """Display RAG system statistics"""
+#     try:
+#         # Try to get stats from RAG system
+#         from utils.rag import mental_health_rag
+#         if hasattr(mental_health_rag, 'get_stats'):
+#             stats = mental_health_rag.get_stats()
+#         else:
+#             stats = {'total_documents': 'Unknown', 'api_available': False, 'ready': False}
 
-        col1, col2, col3 = st.columns(3)
+#         col1, col2, col3 = st.columns(3)
 
-        with col1:
-            st.metric("Knowledge Documents", stats.get('total_documents', 0))
+#         with col1:
+#             st.metric("Knowledge Documents", stats.get('total_documents', 0))
 
-        with col2:
-            api_status = " Ready" if stats.get('ready', False) else "⚠️ Basic Mode"
-            st.metric("Status", api_status)
+#         with col2:
+#             api_status = " Ready" if stats.get('ready', False) else "⚠️ Basic Mode"
+#             st.metric("Status", api_status)
 
-        with col3:
-            st.metric("Mode", "Advanced" if stats.get('api_available', False) else "Simple")
+#         with col3:
+#             st.metric("Mode", "Advanced" if stats.get('api_available', False) else "Simple")
 
-    except Exception as e:
-        st.error(f"Could not load RAG statistics: {e}")
+#     except Exception as e:
+#         st.error(f"Could not load RAG statistics: {e}")
 
 def instructions_page():
     """Instructions and setup page"""
@@ -141,8 +141,8 @@ def main():
             max_context = st.slider("Context Length", 500, 3000, 1500, step=100)
 
         # Display RAG statistics
-        with st.expander("📊 Knowledge Base Stats"):
-            display_rag_stats()
+        # with st.expander("📊 Knowledge Base Stats"):
+        #     display_rag_stats()
 
         # Crisis resources (always visible)
         st.header("🚨 Crisis Resources")
